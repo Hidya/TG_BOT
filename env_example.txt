@@ -1,0 +1,14 @@
+# Telegram Bot Configuration
+BOT_TOKEN=your_telegram_bot_token_here
+
+# A4F API Configuration
+A4F_API_KEY=your_a4f_api_key_here
+
+# Webhook Configuration
+WEBHOOK_URL=https://your-app-name.back4app.io
+
+# Environment (local/production)
+ENVIRONMENT=production
+
+# Port (for Back4app)
+PORT=5000
